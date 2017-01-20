@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    // Variable declarations
+    // ADJECTIVE declarations
     string name, color;
 
     // Output and input
@@ -20,3 +20,4 @@ int main()
    
     return 0;
 }
+
